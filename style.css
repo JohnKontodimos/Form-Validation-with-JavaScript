@@ -1,0 +1,53 @@
+#formContainer,
+#alert {
+  width: 500px;
+  margin: 30px auto;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #333;
+  border: 1px solid #333;
+  background-color: #bed3eb;
+}
+
+#alert {
+  padding: 1em;
+  background-color: white;
+  border: none;
+}
+
+/* για τα στοιχεία διεπαφής με κείμενo (text, textarea, select, button) */
+input,
+textarea,
+select {
+  font-size: 9pt;
+}
+
+/* γενικός κανόνας για δεξιά στοίχιση κειμένου (πχ σε κάποια κελιά) */
+.right {
+  text-align: right;
+}
+
+/* γενικός κανόνας για στοίχιση κειμένου πάνω, σε κελιά πίνακα με μεγάλο ύψος */
+.top {
+  vertical-align: top;
+}
+
+/* για τον μετρητή "χαρακτήρων που απομένουν" του textarea  */
+#chars_left_counter {
+  width: 300px;
+  margin-top: 0px;
+  padding: 3px;
+  font-size: 10px;
+  color: #a00;
+  text-align: right;
+}
+
+/* για το textarea */
+#comments {
+  width: 300px;
+}
+
+/* padding για όλα τα κελιά - αντί χρήσης της ιδιότητας cellpadding στο table tag*/
+td {
+  padding: 4px;
+}
