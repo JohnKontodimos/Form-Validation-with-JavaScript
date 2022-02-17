@@ -29,7 +29,7 @@
 
 ## Demo
 
-[Demo παρουσίασης της σελίδας](https://johnkontodimos.github.io/Search-Bar-JavaScript/)
+[Demo παρουσίασης της σελίδας](https://johnkontodimos.github.io/Form-Validation-with-JavaScript/)
 
 ## Οδηγίες Εγκατάστασης
 
@@ -43,7 +43,7 @@
 
 Έπειτα μπορείτε να ανοίξετε το site στον browser σας εαν κάνετε κλικ στο index.html μέσα στον φάκελο που κάνατε clone το project.
 
-Ενναλακτικά μπορείτε να ανοίξετε το link του [Demo](https://johnkontodimos.github.io/Search-Bar-JavaScript/)
+Ενναλακτικά μπορείτε να ανοίξετε το link του [Demo](https://johnkontodimos.github.io/Form-Validation-with-JavaScript/)
 
 
 
